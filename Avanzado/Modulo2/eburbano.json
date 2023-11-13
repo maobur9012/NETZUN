@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Edgar Burbano", 
+        "edad": 32, 
+        "ciudad": "Bolivar"
+    },
+    {
+        "nombre": "Sara Burbano", 
+        "edad": 6, 
+        "ciudad": "Popayan"
+    },
+    {
+        "nombre": "Sofia Anacona", 
+        "edad": 14, 
+        "ciudad": "Popayan"
+    }
+]
